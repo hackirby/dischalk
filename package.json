@@ -1,6 +1,6 @@
 {
   "name": "dischalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "colorize your discord bot messages using ANSI !",
   "main": "src/index.js",
   "scripts": {
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/hackirby/dischalk/issues"
   },
-  "homepage": "https://github.com/hackirby/dischalk#readme"
+  "homepage": "https://github.com/hackirby/dischalk#readme",
+  "keywords": [
+    "discord",
+    "chalk",
+    "ansi",
+    "color",
+    "colorize",
+    "message",
+    "bot"
+  ]
 }
